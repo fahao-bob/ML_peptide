@@ -115,3 +115,4 @@ _EOF_
 rm -r coord.txt
 rm -r species.txt
 echo " the outpu ${a}.py is ok"
+ 
